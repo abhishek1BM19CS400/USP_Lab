@@ -1,5 +1,4 @@
 #!/bin/sh
-# Write a Shell Script to find Fibonacci Series Upto N using While Construct
 
 a1=0
 a2=1
@@ -14,3 +13,4 @@ a1=$a2
 a2=$a3
 n=`expr $n - 1`
 done
+
